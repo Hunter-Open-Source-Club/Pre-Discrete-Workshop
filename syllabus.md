@@ -20,4 +20,4 @@
 * Proofs
     * Proof by Induction
     * Proof by Contradiction
-* PigeonHole Principle 
+* Pigeonhole Principle 
