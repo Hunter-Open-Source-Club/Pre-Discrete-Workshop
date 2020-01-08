@@ -1,5 +1,9 @@
 ## Tentative Syllabus
 
+We plan to cover basic definitions and essential formulas and principles.
+The goal is to lay groundwork that makes it easier to follow along during the course
+as advanced problems and proofs are covered.
+
 * Arithmetic Series
     * Sum of Series (Gauss Formula)
 * Sigma and Pi Notation
@@ -10,7 +14,7 @@
     * Sets, Subsets, Power Sets
     * Counting Sets
     * Union and Intersection
-* Basic Inclusion - Exlusion Principle
+* Inclusion - Exlusion Principle
 * Logic
     * Statements
     * Negations
@@ -21,3 +25,4 @@
     * Proof by Induction
     * Proof by Contradiction
 * Pigeonhole Principle 
+* Graph Theory
