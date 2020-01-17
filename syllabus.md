@@ -11,7 +11,7 @@ __KEY__:
 
 🔨 - Currently being worked on by somebody
 
-* Logic ❌
+* Logic 🔨: [Example Problem Set 1](https://people.umass.edu/klement/100/logic-worksheet.html), [Example Problem Set 2](https://faculty.fordham.edu/klima/SymbolicLogic/Logic-Home-Exercises-1-PL.pdf)
     * Statements, Predicates, and Propositions
         * Truth Tables
         * De Morgan's Laws
@@ -29,7 +29,7 @@ __KEY__:
     * Proof by Contradiction
     * Proof by Contrapositive
 
-Content After Midterm
+Workshop Day 2: Content After Midterm
 
 * Sequences & Induction ❌
     * Sigma and Pi Notation
