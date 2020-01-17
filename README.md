@@ -14,6 +14,9 @@ Repository for planning for our Discrete Mathematics workshop prep for Hunter's 
 ### Fall 2017 - Spring 2018 CSCI 150 (Prof. Saad) 
 [Class Site](http://www.cs.hunter.cuny.edu/~saad/courses/dm/)
 
+### MIT OpenCourseWare - Math for Computer Science
+[Course Resources](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/resource-index/)
+
 ### Stanford CS
 
 [CS103 Class Site](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/)
