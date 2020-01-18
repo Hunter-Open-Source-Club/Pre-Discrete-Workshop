@@ -44,9 +44,16 @@ Workshop Day 2: Content After Midterm
 * Set Theory ❌
     * Union, Intersection, Empty Set, Power Set
     * Cardinality
-* Counting ❌
+* Counting 🔨: [Example Problem Set 1](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw1.pdf), [Example Problem Set 2](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw2.pdf), [Some notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [Some more notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf)
     * Pigeonhole Principle
     * Permutations
     * Choose Notation
     * Inclusion - Exlusion Principle
 * Basic Graph Theory ❌
+
+__Video Tutorial Resources__
+* [TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+* [Randall Heyman](https://www.youtube.com/channel/UCmtelDcX6c-xSTyX6btx0Cw/videos)
+* [Trefor Bazett](https://www.youtube.com/watch?v=rdXw7Ps9vxc&list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+* [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
+* [Arsdigita MIT](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
