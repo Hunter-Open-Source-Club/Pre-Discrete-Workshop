@@ -17,9 +17,10 @@ __KEY__:
         * De Morgan's Laws
     * Argument Forms & Simple Proofs
         * Modus Ponens, Modus Tollens
-* Set Definition and Notation ❌
-    * Common Sets: N, Z, Q, R
-    * Subsets
+* [Set Definition and Notation](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_Session7.pdf) ✅
+    * Common Sets: N, Z, Q, R [Definitions](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/assignments/MIT6_042JS15_ps2.pdf)
+    * Set Relations
+    * [Problem Set](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/assignments/MIT6_042JS15_ps2.pdf)
 * Number Theory ❌
     * Definition of Even, Odd
     * Definition of Divisibility, Primes
