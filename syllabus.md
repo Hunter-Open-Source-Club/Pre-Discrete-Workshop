@@ -53,8 +53,8 @@ Workshop Day 2: Content After Midterm
     * Permutations
     * Choose Notation
     * Inclusion - Exlusion Principle
-    * [Example Problem Set 1](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw1.pdf), [Example Problem Set 2](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw2.pdf)
-    * [Some notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [Some more notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf)
+    * [Example Problem Set 1](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw1.pdf), [Example Problem Set 2](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw2.pdf), [Example Problem Set 3](http://homepages.gac.edu/~holte/courses/mcs256/documents/countingprobs.pdf), [Example Problem Set 4](https://www3.nd.edu/~dgalvin1/10120/10120_S16/Topic06_6p6_Galvin.pdf)
+    * [Some notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [Some more notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf), [Even more notes](https://www.inf.ed.ac.uk/teaching/courses/dmmr/slides/14-15/Ch6.pdf)
 * Basic Graph Theory ❌
 
 ___
