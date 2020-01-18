@@ -3,6 +3,8 @@
 We plan to cover basic definitions and essential formulas and principles.
 The goal is to lay groundwork that makes it easier to follow along during the course. As such, the main focus will be on getting a strong understanding of definitions and basic principles in each topic. Hopefully this will allow students to focus on relevant strategies when actually building proofs for more advanced problems during lecture.
 
+___
+
 __KEY__:
 
 ✅ - Materials Complete
@@ -10,6 +12,8 @@ __KEY__:
 ❌ - Materials Staged
 
 🔨 - Currently being worked on by somebody
+
+___
 
 * Logic 🔨: [Example Problem Set 1](https://people.umass.edu/klement/100/logic-worksheet.html), [Example Problem Set 2](https://faculty.fordham.edu/klima/SymbolicLogic/Logic-Home-Exercises-1-PL.pdf)
     * Statements, Predicates, and Propositions
@@ -50,6 +54,8 @@ Workshop Day 2: Content After Midterm
     * Choose Notation
     * Inclusion - Exlusion Principle
 * Basic Graph Theory ❌
+
+___
 
 __Video Tutorial Resources__
 * [TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
