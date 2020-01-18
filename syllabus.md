@@ -48,11 +48,13 @@ Workshop Day 2: Content After Midterm
 * Set Theory ❌
     * Union, Intersection, Empty Set, Power Set
     * Cardinality
-* Counting 🔨: [Example Problem Set 1](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw1.pdf), [Example Problem Set 2](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw2.pdf), [Some notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [Some more notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf)
+* Counting 🔨
     * Pigeonhole Principle
     * Permutations
     * Choose Notation
     * Inclusion - Exlusion Principle
+    * [Example Problem Set 1](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw1.pdf), [Example Problem Set 2](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw2.pdf)
+    * [Some notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [Some more notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf)
 * Basic Graph Theory ❌
 
 ___
