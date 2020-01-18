@@ -4,14 +4,14 @@ Repository for planning for our Discrete Mathematics workshop prep for Hunter's 
 
 ## Resources
 
-### Fall 2019 CSCI 150 (Prof. Schweitzer) 
+### Fall 2019 CSCI 150 (Prof. Eric Schweitzer) 
 [Syllabus](http://www.cs.hunter.cuny.edu/~eschweit/150stuff/sylb.pdf)
 
 [Class Site](http://www.cs.hunter.cuny.edu/~eschweit/150stuff/150.html)
 
 [Textbook (Discrete Mathematics with Applications by Susanna S. Epp 4th Ed.)](https://drive.google.com/file/d/1aoWqtGtqdoMbh5J1GQx9DrNoeTo-II7U/view?usp=sharing)
 
-### Fall 2017 - Spring 2018 CSCI 150 (Prof. Saad) 
+### Fall 2017 - Spring 2018 CSCI 150 (Prof. Saad Mneimneh) 
 [Class Site](http://www.cs.hunter.cuny.edu/~saad/courses/dm/)
 
 ### MIT OpenCourseWare - Math for Computer Science
@@ -24,5 +24,16 @@ Repository for planning for our Discrete Mathematics workshop prep for Hunter's 
 [CS103 Syllabus](https://stanford.app.box.com/s/7zu216uqapdngn9wl5uql7i7p25j8867)
 
 [CS103 Schedule](http://web.stanford.edu/class/archive/cs/cs103/cs103.1184/handouts/010%20Syllabus.pdf)
+
+### Video Tutorials
+[TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
+
+[Randall Heyman](https://www.youtube.com/channel/UCmtelDcX6c-xSTyX6btx0Cw/videos)
+
+[Trefor Bazett](https://www.youtube.com/watch?v=rdXw7Ps9vxc&list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+
+[Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
+
+[Arsdigita MIT](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
 
 
