@@ -56,12 +56,3 @@ Workshop Day 2: Content After Midterm
     * [Example Problem Set 1](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw1.pdf), [Example Problem Set 2](http://www.cs.hunter.cuny.edu/~saad/courses/dm/hw/hw2.pdf), [Example Problem Set 3](http://homepages.gac.edu/~holte/courses/mcs256/documents/countingprobs.pdf), [Example Problem Set 4](https://www3.nd.edu/~dgalvin1/10120/10120_S16/Topic06_6p6_Galvin.pdf)
     * [Some notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [Some more notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf), [Even more notes](https://www.inf.ed.ac.uk/teaching/courses/dmmr/slides/14-15/Ch6.pdf)
 * Basic Graph Theory ❌
-
-___
-
-__Video Tutorial Resources__
-* [TrevTutor](https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz)
-* [Randall Heyman](https://www.youtube.com/channel/UCmtelDcX6c-xSTyX6btx0Cw/videos)
-* [Trefor Bazett](https://www.youtube.com/watch?v=rdXw7Ps9vxc&list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
-* [Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
-* [Arsdigita MIT](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
