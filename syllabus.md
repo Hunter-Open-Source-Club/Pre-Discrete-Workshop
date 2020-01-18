@@ -5,9 +5,9 @@ The goal is to lay groundwork that makes it easier to follow along during the co
 
 __KEY__:
 
-✅ - Materials fully gathered
+✅ - Materials Complete
 
-❌ - No materials gathered
+❌ - Materials Staged
 
 🔨 - Currently being worked on by somebody
 
