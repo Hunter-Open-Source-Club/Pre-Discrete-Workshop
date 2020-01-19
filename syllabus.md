@@ -15,6 +15,8 @@ __KEY__:
 
 ___
 
+### Day 1
+
 * Logic 🔨: [Example Problem Set 1](https://people.umass.edu/klement/100/logic-worksheet.html), [Example Problem Set 2](https://faculty.fordham.edu/klima/SymbolicLogic/Logic-Home-Exercises-1-PL.pdf)
     * Statements, Predicates, and Propositions
         * Truth Tables
@@ -34,7 +36,7 @@ ___
     * Proof by Contradiction
     * Proof by Contrapositive
 
-Workshop Day 2: Content After Midterm
+### Day 2:
 
 * Sequences & Induction ❌
     * Sigma and Pi Notation
