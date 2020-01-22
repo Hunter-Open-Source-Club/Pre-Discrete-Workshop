@@ -1,5 +1,5 @@
 # Pre-Discrete-Workshop
-Discrete Mathematics workshop prep for Hunter CSCI 150 course with Professor Schweitzer.
+Discrete Mathematics Workshop Site for Hunter CSCI 150 course with Professor Schweitzer.
 
 
 Workshop [Syllabus](/syllabus)
