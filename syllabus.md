@@ -1,9 +1,3 @@
----
-layout: page
-title: "Syllabus"
-permalink: /syllabus/
----
-
 # Workshop Syllabus
 
 ## View the site for important workshop info: [csci150.hunterosc.org](http://csci150.hunterosc.org/) 
