@@ -1,5 +1,8 @@
-## Tentative Syllabus
+# Workshop Syllabus
 
+## View the site for important workshop info: [csci150.hunterosc.org](http://csci150.hunterosc.org/) 
+
+## Objective
 We plan to cover basic definitions and essential formulas and principles.
 The goal is to lay groundwork that makes it easier to follow along during the course. As such, the main focus will be on getting a strong understanding of definitions and basic principles in each topic. Hopefully this will allow students to focus on relevant strategies when actually building proofs for more advanced problems during lecture.
 
