@@ -1,5 +1,5 @@
 # Pre-Discrete-Workshop
-Repository for planning for our Discrete Mathematics workshop prep for Hunter's CSCI 150 
+Repository for planning for our Discrete Mathematics workshop prep for Hunter CSCI 150 with Professor Schweitzer.
 
 Workshop Site: [csci150.hunterosc.org/](http://csci150.hunterosc.org/)
 
