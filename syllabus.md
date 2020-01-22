@@ -8,7 +8,7 @@ The goal is to lay groundwork that makes it easier to follow along during the co
 
 ## Schedule
 
-### Day 1 (Thursday 1/23)
+### Day 1 (Thursday 1/23 10:30am - 4pm)
 
 * Logic 
     * Statements, Predicates, and Propositions
@@ -31,7 +31,7 @@ Example Logic Problem Sets -  [1](https://people.umass.edu/klement/100/logic-wor
     * Proof by Contradiction
     * Proof by Contrapositive
 
-### Day 2 (Friday 1/24)
+### Day 2 (Friday 1/24 10:30am - 4pm)
 
 * Sequences & Induction 
     * Sigma and Pi Notation
