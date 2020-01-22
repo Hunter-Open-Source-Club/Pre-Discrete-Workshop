@@ -1,6 +1,8 @@
 # Workshop Syllabus
 
-## View the site for important workshop info: [csci150.hunterosc.org](http://csci150.hunterosc.org/) 
+## View homepage: [csci150.hunterosc.org](http://csci150.hunterosc.org/) 
+
+**Location**: Hunter West Room **619**
 
 ## Objective
 We plan to cover basic definitions and essential formulas and principles.
