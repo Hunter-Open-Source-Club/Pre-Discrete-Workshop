@@ -32,3 +32,6 @@ Helpful course links, notes, and videos for Hunter CSCI 150.
 
 [Arsdigita MIT](https://www.youtube.com/watch?v=h_9WjWENWV8&list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
 
+||||
+|:--:|:--:|:--:|
+| [Home](/) | [Syllabus](/syllabus) |  [FAQ](/faq) |
