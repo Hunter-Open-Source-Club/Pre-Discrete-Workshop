@@ -24,3 +24,7 @@ We intend to be very hands on (you will get more than enough lecturing in the 20
 ### Who is running this workshop?
 
 This workshop is a [Hunter Open Source Club](https://hunterosc.org/) initiative, and is run in collaboration with previous and current CSCI 150 UTAs (Undergraduate Teaching Assistants).
+
+||||
+|:--:|:--:|:--:|
+| [Home](/) | [Syllabus](/syllabus) |  [Resources](/resources) |
