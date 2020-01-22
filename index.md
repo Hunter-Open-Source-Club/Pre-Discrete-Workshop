@@ -7,11 +7,11 @@ Discrete Mathematics Workshop Site for Hunter CSCI 150 course with Professor Sch
 
 <div align="center">
 
-Workshop <a href="/syllabus">Syllabus</a>
+<p>Workshop <a href="/syllabus">Syllabus</a></p>
 
-Workshop <a href="/faq">FAQ</a>
+<p>Workshop <a href="/faq">FAQ</a></p>
 
-Discrete <a href="/resources">Resources</a>
+<p>Discrete <a href="/resources">Resources</a></p>
 </div>
 
 
