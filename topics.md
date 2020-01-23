@@ -48,3 +48,16 @@ ___
     * Inclusion - Exlusion Principle
     * [Saad notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note2.pdf), [More Saad notes](http://www.cs.hunter.cuny.edu/~saad/courses/dm/notes/note4.pdf), [Slides on Counting](https://www.inf.ed.ac.uk/teaching/courses/dmmr/slides/14-15/Ch6.pdf)
 * Basic Graph Theory ❌
+
+
+
+## Miscellaneous 
+
+[Workshop Week 2](https://drive.google.com/file/d/1kSwBVsKozHU0X0_gsWm4kyY17RqUxFB1/view)
+
+[Workshop Week 3](https://drive.google.com/file/d/1kfllNfJiUzhOoJMjhHvQ8s-LdeOz55R7/view)
+
+[Workshop Week 4](https://drive.google.com/file/d/1x7H6DiDMQ7ehZLBJaygoImQPlJeIvU_g/view)
+
+[Workshop Week 5](https://drive.google.com/file/d/1DafHa3v7_zweRsey05SSZK3LI-XlPauN/view)
+
