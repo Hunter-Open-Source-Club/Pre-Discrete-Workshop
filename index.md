@@ -19,26 +19,26 @@ For a review of what we covered or more practice, below are the relevant section
 
 [Discrete Mathematics with Applications](https://drive.google.com/file/d/1aoWqtGtqdoMbh5J1GQx9DrNoeTo-II7U/view) (Course Textbook)
 
-> Chapter 1: 1.2 Set Notation
+- Chapter 1: 1.2 Set Notation
 
-> Chapter 2:  2.1 - 2.3  Statements & Logical Forms, Conditional Statements, Arguments
+- Chapter 2:  2.1 - 2.3  Statements & Logical Forms, Conditional Statements, Arguments
 
-> Chapter 3:  3.1 - 3.2 Universal and Existential Statements, and their Negation
+- Chapter 3:  3.1 - 3.2 Universal and Existential Statements, and their Negation
 
-> Chapter 4: 4.1 Number Theory Proofs
+- Chapter 4: 4.1 Number Theory Proofs
 
 See [homework](http://www.cs.hunter.cuny.edu/~eschweit/150stuff/homework.html) on Schweitzer's course site for problems to try out each section.
 
 If you run out of questions or the other book's explanations are just not doing it for you, the Book of Proof (Free under Creative Commons) is a **great** place to look!
 
 [Book of Proof](http://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf) (Community Favorite) 
-> Chapter 1: 1.1 Intro to Sets
+- Chapter 1: 1.1 Intro to Sets
 
-> Chapter 2: All Logic
+- Chapter 2: All Logic
 
-> Chapter 4: All Direct Proof
+- Chapter 4: All Direct Proof
 
-> Chapter 5: All Contrapositive Proof
+- Chapter 5: All Contrapositive Proof
 
 Join Hunter Open Source Club [here](http://join.hunterosc.org/). 
 
