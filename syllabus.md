@@ -22,10 +22,8 @@ The goal is to lay groundwork that makes it easier to follow along during the co
 * Number Theory 
     * Definition of Even, Odd
     * Definition of Divisibility, Primes
-    * Floor & Ceiling Function
 * Proofs 
     * Direct Proof
-    * Proof by Contradiction
     * Proof by Contrapositive
 
 
