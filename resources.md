@@ -5,8 +5,9 @@ Helpful course links, notes, and videos for Hunter CSCI 150.
 
 ## Other Course Sites
 
-### Fall 2019 CSCI 150 
+### Spring 2020 CSCI 150  Course Site
 [Syllabus](http://www.cs.hunter.cuny.edu/~eschweit/150stuff/sylb.pdf)
+
 [Class Site](http://www.cs.hunter.cuny.edu/~eschweit/150stuff/150.html)
 
 ### Fall 2017 - Spring 2018 CSCI 150  
