@@ -17,6 +17,8 @@ Discrete Mathematics Workshop Site for Hunter CSCI 150 course with Professor Sch
 
 For a review of what we covered or more practice, below are the relevant sections from the course textbook. You can visit the [Skirball Science Center](https://library.hunter.cuny.edu/skirball-science-learning-center) (Hunter East 7th) for Discrete Tutoring throughout the semester.
 
+These sections specifically should cover course content up to and including the midterm.
+
 [Discrete Mathematics with Applications](https://drive.google.com/file/d/1aoWqtGtqdoMbh5J1GQx9DrNoeTo-II7U/view) (Course Textbook)
 
 - Chapter 1: 1.2 Set Notation
